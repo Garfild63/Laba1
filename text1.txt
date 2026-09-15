@@ -1,0 +1,13 @@
+Для примера напишем программу, которая складывает два данных ей целых числа. Сразу приведем полный текст решения, а потом разберем его.
+import java.util.Scanner;
+
+public class AplusB {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int a, b;
+        a = in.nextInt();
+        b = in.nextInt();
+        int c = a + b;
+        System.out.println(c);
+    }
+}
