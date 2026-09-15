@@ -5,7 +5,7 @@ public class AplusB {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int a, b;
-        a = in.nextInt();
+        a = 67;
         b = 67;
         int c = a + b;
         System.out.println(c);
