@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Госуслуги</title>
+    <title>Госуслуги 3.0</title>
 </head>
 <body>
     <p>Зайти через MAX</p>
