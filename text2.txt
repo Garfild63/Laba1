@@ -1,0 +1,8 @@
+<html>
+<head>
+    <title>Госуслуги</title>
+</head>
+<body>
+    <p>Зайти через MAX</p>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<html>
+<head>
+    <title>Самозанятость</title>
+</head>
+<body>
+    <p>Самозанятость</p>
+</body>
+</html>
