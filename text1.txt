@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Самозанятость 2.0</title>
+    <title>Самозанятость 4.0</title>
 </head>
 <body>
     <p>Самозанятость</p>
